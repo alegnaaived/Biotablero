@@ -1,5 +1,4 @@
-{
-	"data": [{
+[{
 		"bioma_iavh": "Helobioma Altoandino cordillera oriental",
 		"nom_szh": "Río Chicamocha",
 		"area_szh": 4597.98517126,
@@ -815,4 +814,3 @@
 		"area_szh": 425.01185958,
 		"fc_valor": 8.75
 	}]
-}
